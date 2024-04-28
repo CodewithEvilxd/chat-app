@@ -11,7 +11,7 @@ type MainLayoutProps = {
   description?: string;
 };
 
-const siteUrl = 'https://chat-app-ccrsxx.vercel.app';
+const siteUrl = 'https://chat-app-rust-three.vercel.app/';
 
 export function MainLayout({
   url,
